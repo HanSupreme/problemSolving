@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class problemSolving {
+public class vowelOrConsonantSwitchStatements {
 
     public static void main(String[] args) {
 
@@ -49,7 +49,7 @@ public class problemSolving {
 
 /*
 
-NOT COMPLETE, 
+NOT 100% SOLVED, 
 
 IT WON'T READ STRINGS! IT WILL ONLY READ THE FIRST LETTER THAT IS PRINTED IN THE STRING 
 AND PRINT WHETHER IT IS A VOWEL OR CONSONANT
