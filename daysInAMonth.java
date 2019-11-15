@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class upload {
+public class daysInAMonth {
 
     public static void main(String[] args) {
 
