@@ -1,6 +1,6 @@
 # problemSolving
 
-# Problem Solving Java Code
+# Problem Solving - Conditional Statements (Java)
 
 Hi, 
 
