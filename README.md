@@ -4,7 +4,7 @@
 
 Hi, 
 
-To whomever is reading this, I will add a file of Java Code along with the answer(s). 
+I will add a file of Java Code along with the answer(s). 
 
 Anyone is welcomed to contribute and add code if there is a much simpler version way to solve it. 
 
