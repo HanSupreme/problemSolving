@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class upload {
+public class problemSolving {
 
     public static void main(String[] args) {
 
@@ -46,3 +46,12 @@ public class upload {
     }
 
     }
+
+/*
+
+NOT COMPLETE, 
+
+IT WON'T READ STRINGS! IT WILL ONLY READ THE FIRST LETTER THAT IS PRINTED IN THE STRING 
+AND PRINT WHETHER IT IS A VOWEL OR CONSONANT
+
+*/
