@@ -1,4 +1,4 @@
-# problemSolvingConditionalStatements
+# problemSolving
 
 # Problem Solving - Conditional Statements (Java)
 
