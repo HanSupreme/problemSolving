@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class vowelOrConsonantSwitchStatements {
+public class vowelOrConsonantSwitch {
 
     public static void main(String[] args) {
 
